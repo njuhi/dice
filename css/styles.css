@@ -1,15 +1,6 @@
-p{
-  font-family: 'Black Ops One', cursive;
-  background:brown;
-}
-
-body{
-  background-image: url(../img/image.gif);
-  background-size : cover;
-  background-repeat: no-repeat;
-  text-align: center;
+.well{
+  background-color: blue;
 }
 .well{
-  color: red;
-  background-color:black;
+  background-color: red;
 }

@@ -1,5 +1,5 @@
 var score = [];
-var totalScore = [];
+var totalScore = 0;
 var currentScore = 0;
  function roll(){
     var randomNumber=parseInt(Math.floor(Math.random() * 6 + 1))
@@ -33,7 +33,7 @@ function hold(){
 
 
 var sco = [];
-var totSco = [];
+var totSco = 0;
 var currSco = 0;
  function llor(){
     var randomNumber=parseInt(Math.floor(Math.random() * 6 + 1))
